@@ -1,0 +1,2 @@
+# JDBC
+dummy connectivity test
